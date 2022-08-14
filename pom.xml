@@ -110,6 +110,7 @@
 					</executions>
 				</plugin>
 			</plugins>
+			<finalname>springboot-images-new</finalName>
 		</pluginManagement>
 	</build>
 
